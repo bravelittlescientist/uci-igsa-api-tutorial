@@ -4,5 +4,4 @@ A set of Hello World examples to document getting started with various web APIs.
 
 ## Deploying Demos
 
-git subtree push --prefix output heroku master
-
+[Placeholder: Subrebo commnads]
