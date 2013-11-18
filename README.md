@@ -1,4 +1,8 @@
-uci-igsa-api-tutorial
-=====================
+# UCI IGSA - Working with APIs, Tutorial
 
-Code and Slides for my UCI IGSA API Tutorial. 
+A set of Hello World examples to document getting started with various web APIs. Demos deployed with Python (Flask) on Heroku. Presentation slides also included.
+
+## Deploying Demos
+
+git subtree push --prefix output heroku master
+
